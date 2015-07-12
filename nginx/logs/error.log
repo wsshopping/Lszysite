@@ -1,0 +1,14 @@
+2015/07/12 13:06:58 [emerg] 2785#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:06:58 [emerg] 2785#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:06:58 [emerg] 2785#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:06:58 [emerg] 2785#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:06:58 [emerg] 2785#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:06:58 [emerg] 2785#0: still could not bind()
+2015/07/12 13:07:23 [error] 2790#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.1.106, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "192.168.1.125"
+2015/07/12 13:07:23 [error] 2790#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.1.106, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8000/favicon.ico", host: "192.168.1.125"
+2015/07/12 13:15:29 [emerg] 3042#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:15:29 [emerg] 3042#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:15:29 [emerg] 3042#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:15:29 [emerg] 3042#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:15:29 [emerg] 3042#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2015/07/12 13:15:29 [emerg] 3042#0: still could not bind()
