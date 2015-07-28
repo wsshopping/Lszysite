@@ -1,2 +1,2 @@
 # lszy-site
-lszy网址
+一个基于django框架的企业网址，网址展示www.wnleishi.com
